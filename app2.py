@@ -1,5 +1,7 @@
 def main():
-  print("Hello jenkins,code updated automatically!")
-if _name_ == "_main":
+    print("Hello Jenkins, code updated automatically!")
+
+if __name__ == "__main__":
     main()
+
 
